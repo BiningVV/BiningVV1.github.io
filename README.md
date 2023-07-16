@@ -1,6 +1,6 @@
 # PERSONAL RESUME
 <p>    
-<img  src="/MyPhoto.png"  width="200"  align="left" />
+<img  src="https://github.com/BiningVV/Photo/blob/211312ddc640d31181b60d3329b4b9d67c5ec1b4/MyPhoto.png"  width="200"  align="left" />
 <!-- ## Basic Information
 - Name: Binbin Feng
 - Gender: Male
