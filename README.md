@@ -69,7 +69,7 @@
     - Head of Development, is ended, “Solution Dehumidification Design and Simulation Software”, Shandong Zhongrui New Energy Technology Co., Ltd (2019/10-2019/11) 
     - Head of Development, is ended, “Energy Storage Adjustable Ground Source Heat Pump Air Conditioning System”, Shandong Fangya Diyuan Heat Pump Air-condition Technology Co., Ltd (2019/10-2020/5)
 
-## 出版物
+## Publications
 - 2020/09-Present Tongji University (TJU), Shanghai, China 
     - Binbin Feng, Zhijun Ding, “GROUP: An End-to-end Multi-step-ahead Workload Prediction Approach Focusing on Workload Group Behavior,” The Web Conference (WWW), 2023, doi: 10.1145/3543507.3583460.
     - Binbin Feng, Zhijun Ding, Changjun Jiang, “FAST: A Forecasting Model with Adaptive Sliding Window and Time Locality Integration for Dynamic Cloud Workloads,” IEEE Transactions on Services Computing, pp. 1–1, 2022, doi: 10.1109/TSC.2022.3156619. 
