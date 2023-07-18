@@ -1,19 +1,7 @@
 # PERSONAL RESUME
 <p>    
 <img src="/MyPhoto.png"  width="200"  align="left" />
-<!-- ## Basic Information
-- *Name:* Binbin Feng
-- *Gender:* Male
-- *Age:* 25 years old
-- *School:* Tongji University
-- *Education:* Ph.D. Candidate
-- *Tutor:* Zhijun Ding
-- *E-mail:* biningvv@gmail.com
-- *Stage:* Third post-graduate year (B.A. to Ph.D. Program)
-- *College:* College of Electronic and Information Engineering
-- *Major:* Computer Science and Technology -->
-</p>
-
+    
 - **Name:** Binbin Feng
 - **Gender:** Male
 - **Age:** 25 years old
@@ -72,11 +60,13 @@
 
 ## Publications
 - **2020/09-Present Tongji University (TJU), Shanghai, China**
-    - **Binbin Feng**, Zhijun Ding\*, “GROUP: An End-to-end Multi-step-ahead Workload Prediction Approach Focusing on Workload Group Behavior,” The Web Conference (WWW), 2023, doi: 10.1145/3543507.3583460.
-    - **Binbin Feng**, Zhijun Ding\*, Changjun Jiang, “FAST: A Forecasting Model with Adaptive Sliding Window and Time Locality Integration for Dynamic Cloud Workloads,” IEEE Transactions on Services Computing, pp. 1–1, 2022, doi: 10.1109/TSC.2022.3156619. 
-    - Zhijun Ding, **Binbin Feng\***, Changjun Jiang, “COIN: A Container Workload Prediction Model Focusing on Common and Individual Changes in Workloads,” IEEE Transactions on Parallel and Distributed Systems, pp. 1–14, 2022, doi: 10.1109/TPDS.2022.3202833.
-    - Yaoyin You, **Binbin Feng**, Zhijun Ding, “Q-percentile Bandwidth Billing Based Geo-Scheduling Algorithm,” 2022 IEEE 15th International Conference on Cloud Computing (CLOUD), Jul. 2022, pp. 219–229. doi: 10.1109/CLOUD55607.2022.00042. 
-    - Zhijun Ding, Yuehao Xu, **Binbin Feng**, Changjun Jiang, “Microservice Extraction Based on a Comprehensive Evaluation of Logical Independence and Performance,” IEEE Transactions on Software Engineering, reviewing. - Changjun Jiang, Chungang Yan, Zhijun Ding, Yaying Zhang, Binbin Feng, “Workload forecasting methods, systems, devices, and computer-readable storage media”, China National Invention Patent, CN202111498189.8, reviewing.
+    - **Binbin Feng**, Zhijun Ding\*, “GROUP: An End-to-end Multi-step-ahead Workload Prediction Approach Focusing on Workload Group Behavior,” **The Web Conference (WWW)**, 2023, doi: 10.1145/3543507.3583460.
+    - **Binbin Feng**, Zhijun Ding\*, Changjun Jiang, “FAST: A Forecasting Model with Adaptive Sliding Window and Time Locality Integration for Dynamic Cloud Workloads,” **IEEE Transactions on Services Computing**, pp. 1–1, 2022, doi: 10.1109/TSC.2022.3156619. 
+    - Zhijun Ding, **Binbin Feng\***, Changjun Jiang, “COIN: A Container Workload Prediction Model Focusing on Common and Individual Changes in Workloads,” **IEEE Transactions on Parallel and Distributed Systems,** pp. 1–14, 2022, doi: 10.1109/TPDS.2022.3202833.
+    - Yaoyin You, **Binbin Feng**, Zhijun Ding\*, “Q-percentile Bandwidth Billing Based Geo-Scheduling Algorithm,” **International Conference on Cloud Computing** (CLOUD), Jul. 2022, pp. 219–229. doi: 10.1109/CLOUD55607.2022.00042. 
+    - Zhijun Ding, Yuehao Xu, **Binbin Feng**, Changjun Jiang, “Microservice Extraction Based on a Comprehensive Evaluation of Logical Independence and Performance,” **IEEE Transactions on Software Engineering**, reviewing.
+    - Changjun Jiang, Chungang Yan, Zhijun Ding, Yaying Zhang, **Binbin Feng**, “Workload Forecasting Methods, Systems, Devices, and Computer-readable Storage Media”, **China National Invention Patent**, CN202111498189.8, reviewing.
+    - Changjun Jiang, Chungang Yan, Zhijun Ding, Yaying Zhang, Yuehao Xu, **Binbin Feng**, “A Microservice Partition Method based on Logical Independence and Performance Comprehensive Evaluation”, **China National Invention Patent**, CN202211503935.2, reviewing.
 - **2016/09-2020/06 Shandong Jianzhu University (SDJZU), Jinan, China**
     - Liang Fang, Yi Man, **Binbin Feng**, “GeoStarII: Heat Transfer Analysis Software for Middle and Deep Buried Tube Heat Exchangers”, National Software Copyright, 2019SR0644115. 
     - Shandong Jianzhu University, “GeoStarIII: Heat Transfer Analysis Software for Medium and Deep U-Shaped Buried Tube Heat Exchangers”, National Software Copyright, 2020SR0451347. 
