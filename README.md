@@ -1,7 +1,7 @@
 # PERSONAL RESUME
-<p>    
-<img src="/MyPhoto.png"  width="200"  align="left" />
-    
+<p>
+<img src="./MyPhoto.png"  width="200"  align="left" />
+
 - **Name:** Binbin Feng
 - **Gender:** Male
 - **Age:** 25 years old
