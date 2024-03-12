@@ -2,7 +2,7 @@
 <font size=2>
 <div style="display: flex;">
   <div style="flex-basis: 25%; padding-right: 20px;">
-    <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/MyPhoto.jpg" alt="A photo of J. Doe" width="140" height="180" style="max-width: 160px;" /></figure>
+    <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="MyPhoto.png" alt="A photo of J. Doe" width="140" height="180" style="max-width: 160px;" /></figure>
   </div>
   <div style="flex-basis: 60%;">
     <li><b>Name:</b> Binbin Feng</li>
